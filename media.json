@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Imagen de prueba",
+    "type": "image",
+    "url": "https://picsum.photos/400/300"
+  },
+  {
+    "id": 2,
+    "title": "Audio de prueba",
+    "type": "audio",
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Video de prueba",
+    "type": "video",
+    "url": "https://www.learningcontainer.com/wp-content/uploads/2020/05/sample-mp4-file.mp4"
+  }
+]
